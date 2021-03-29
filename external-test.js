@@ -1,1 +1,5 @@
-<script>alert(window.domain);</script>
+<script>
+  function externaltest() {
+    alert(window.domain);
+  }  
+</script>
